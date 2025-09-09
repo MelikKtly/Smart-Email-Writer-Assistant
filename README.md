@@ -1,0 +1,1 @@
+This is an AI project designed to assist with writing emails. This repository contains the backend code, and by exploring the other repositories, you can find the frontend and Google Chrome extension implementations as well.
